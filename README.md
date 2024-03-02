@@ -1,2 +1,7 @@
 # okay
-okay code
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x0b6293E1463C2cd81A09FAF95DdB7Be4B8689526'
+quorum: 1
